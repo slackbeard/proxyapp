@@ -3,6 +3,8 @@ A simple caching, configurable proxy app.
 
 ## To run locally:
 ```
+$ npm i
+...
 $ docker-compose build
 ...
 $ docker-compose up
